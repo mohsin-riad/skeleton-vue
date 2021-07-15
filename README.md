@@ -1,4 +1,4 @@
-# test
+# Vue v2
 
 ## Project setup
 ```
