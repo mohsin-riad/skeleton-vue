@@ -2,15 +2,18 @@
 
 ## Project setup
 ```
-npm install
+#node modules 
+npm i
+
+#axios
+npm i axios --save
+
+#bootstrap
+npm install bootstrap bootstrap-vue
 ```
 
-### Compiles and hot-reloads for development
+### hot-reloads for development
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
